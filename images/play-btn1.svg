@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="334px" height="334px" viewBox="0 0 334 334" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>play-btn</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="72" cy="72" r="72"></circle>
+        <filter x="-125.7%" y="-124.3%" width="351.4%" height="351.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="60" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-553.000000, -416.000000)">
+            <g id="Header">
+                <g id="play-btn" transform="translate(648.000000, 509.000000)">
+                    <g id="wave-thing">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill-opacity="0.3" fill="#FFFFFF" fill-rule="evenodd" style="mix-blend-mode: overlay;" xlink:href="#path-1"></use>
+                    </g>
+                    <path d="M72.5,112 C50.699,112 33,94.301 33,72.5 C33,50.699 50.699,33 72.5,33 C94.301,33 112,50.699 112,72.5 C112,94.301 94.301,112 72.5,112 Z M73,38 C53.7252308,38 38,53.7252308 38,73 C38,92.2747692 53.7252308,108 73,108 C92.2747692,108 108,92.2747692 108,73 C108,53.7252308 92.2747692,38 73,38 Z M66.74552,83.0298206 C65.83656,82.5093136 65.25,81.5343006 65.25,80.4958606 L65.25,64.5045606 C65.25,63.4635206 65.833986,62.4885206 66.74552,61.9706006 C67.65448,61.4500936 68.76156,61.4500936 69.67052,61.9706006 L83.32052,69.9662506 C84.22948,70.4867576 84.75,71.4617706 84.75,72.5002106 C84.75,73.5412506 84.166014,74.5162506 83.32052,75.0341706 L69.67052,83.0298206 C69.216027,83.2913416 68.69552,83.4208346 68.175,83.4208346 C67.654493,83.4208346 67.2,83.2913416 66.74552,83.0298206 Z" fill="#FFFFFF" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
