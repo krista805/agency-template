@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="91px" height="78px" viewBox="0 0 91 78" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>quotation mark</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="125.549072%" y1="124.983866%" x2="-23.6338408%" y2="-28.0527417%" id="linearGradient-1">
+            <stop stop-color="#0080E5" offset="0%"></stop>
+            <stop stop-color="#00C652" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-312.000000, -3384.000000)" fill="url(#linearGradient-1)">
+            <g id="Testimonials" transform="translate(309.000000, 3158.000000)">
+                <g id="review" transform="translate(0.000000, 226.000000)">
+                    <path d="M94,78 L59.2058824,78 C56.1470435,64.8096901 54.6176471,53.1415141 54.6176471,42.995122 C54.6176471,14.331564 67.6175171,0 93.6176471,0 L93.6176471,16.7414634 C81.3822918,16.7414634 75.2647059,23.3365194 75.2647059,36.5268293 L75.2647059,45.2780488 L94,45.2780488 L94,78 Z M42.3823529,78 L7.58823529,78 C4.52939647,64.8096901 3,53.1415141 3,42.995122 C3,14.331564 15.99987,0 42,0 L42,16.7414634 C29.7646447,16.7414634 23.6470588,23.3365194 23.6470588,36.5268293 L23.6470588,45.2780488 L42.3823529,45.2780488 L42.3823529,78 Z" id="quotation-mark"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
